@@ -6,7 +6,7 @@
 # Skill
 - [ ] Writing and coding skills
 - [x] Learn coding rules
-- [ ] Calculate
+- [x] Calculate
 # Other
 ## Programming languages, Code languages
 I have never learned to code or program so am learning how to code ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) or ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=000000), ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=000000) by myself
