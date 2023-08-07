@@ -13,7 +13,7 @@ I have never learned to code or program so am learning how to code ![Python](htt
 ## Working space
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
-![Windows](https://img.shields.io/badge/-Windows-ffffff?logo=windows&logoColor=ffffff)
+![Window](https://img.shields.io/badge/-Window-ffffff?logo=window&logoColor=ffffff)
 
 <!---
 M-DinhHoangViet/M-DinhHoangViet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
