@@ -9,7 +9,7 @@
 - [x] Calculate
 # Other
 ## Programming languages, Code languages
-I have never learned to code or program so am learning how to code ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) or ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=000000), ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=000000) by myself
+I have never learned to code or program so am learning how to code ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) or ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=000000), ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=ffffff) by myself
 ## Working space
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
