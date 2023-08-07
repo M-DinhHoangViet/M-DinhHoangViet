@@ -1,0 +1,29 @@
+name: 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contributions Graph
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.CONTRIB_GRAPH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: ${{ github.repository_count }}
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update 3d Contributions Graph"
+      - name: Push files
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.CONTRIB_GRAPH_TOKEN }}
+          branch: master
