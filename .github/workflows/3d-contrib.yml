@@ -2,12 +2,12 @@ name: 3D Contributions
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: window-latest
     name: Generate 3D Contributions Graph
     steps:
       - uses: actions/checkout@v2
