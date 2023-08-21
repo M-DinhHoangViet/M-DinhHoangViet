@@ -10,10 +10,10 @@ jobs:
     runs-on: windows-latest
     name: Generate 3D Contributions Graph
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.CONTRIB_GRAPH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit files
