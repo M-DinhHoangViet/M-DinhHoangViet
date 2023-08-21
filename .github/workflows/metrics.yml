@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: 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
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           user: M-DinhHoangViet
           template: classic
