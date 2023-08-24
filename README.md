@@ -33,3 +33,8 @@
 ## Social accounts
 [![Twitter](https://img.shields.io/badge/Twitter-%40DINHHOANGVIET_-blue.svg)](https://twitter.com/DINHHOANGVIET_)
 [![Chesscom](https://img.shields.io/badge/-Chesscom-00FF00?logo=chesscom&logoColor=00FF00)](https://www.chess.com/member/m-dinhhoangviet)
+[![Lichess](https://img.shields.io/badge/-Lichess-FFF5EE?logo=lichess&logoColor=FFF5EE)](https://lichess.org/@/M_DinhHoangViet)
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCPj3r5RWmho8CMnz8r5Aw-Q)
+[![Twitch](https://img.shields.io/badge/-Twitch-9932CC?logo=twitch&logoColor=9932CC)](https://www.twitch.tv/masterdinhhoangviet)
+[![Tiktok](https://img.shields.io/badge/-Tiktok-000000?logo=tiktok&logoColor=000000)](https://www.tiktok.com/@m_dinhhoangviet)
+[![Facebook](https://img.shields.io/badge/-Facebook-0000CD?logo=facebook&logoColor=0000CD)](https://www.facebook.com/profile.php?id=100074561160371)
