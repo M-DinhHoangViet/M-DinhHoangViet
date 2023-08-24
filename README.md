@@ -19,3 +19,30 @@ I have never learned to code or program so am learning how to code ![Python](htt
 M-DinhHoangViet/M-DinhHoangViet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">
+	M-DinhHoangViet
+</h1>
+
+<h2 align="center">
+	Stats
+</h2>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats-theyobots.vercel.app/api?username=TheYoBots&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheYoBots&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats-theyobots.vercel.app/api/top-langs/?username=TheYoBots&layout=compact&langs_count=10&include_all_commits=true&hide_border=true&theme=tokyonight&exclude_repo=github-readme-stats,Fairy-Stockfish-Random"/>
+</p>
+
+<h2 align="center">
+	3D Contributions Graph
+</h2>
+
+<p align="center">
+	<a href="./github-contrib-graph.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
