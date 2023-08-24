@@ -26,6 +26,10 @@
 	<img width="625em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/github-metrics.svg" />
 </p>
 
+## Working space
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
+![Windows](https://img.shields.io/badge/-Windows-FFFFFF?logo=window&logoColor=FFFFFF)
 ## Social accounts
 [![Twitter](https://img.shields.io/badge/Twitter-%40DINHHOANGVIET_-blue.svg)](https://twitter.com/DINHHOANGVIET_)
-[![Chess.com](https://img.shields.io/badge/Chess.com-%40M-DinhHoangViet-green.svg)](https://www.chess.com/member/m-dinhhoangviet)
+[![Chess.com](https://img.shields.io/badge/-Chess.com-00FF00?logo=chess.com&logoColor=00FF00)](https://www.chess.com/member/m-dinhhoangviet)
