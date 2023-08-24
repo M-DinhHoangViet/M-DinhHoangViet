@@ -32,4 +32,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?logo=window&logoColor=FFFFFF)
 ## Social accounts
 [![Twitter](https://img.shields.io/badge/Twitter-%40DINHHOANGVIET_-blue.svg)](https://twitter.com/DINHHOANGVIET_)
-[![Chess.com](https://img.shields.io/badge/-Chess.com-00FF00?logo=chess.com&logoColor=00FF00)](https://www.chess.com/member/m-dinhhoangviet)
+[![Chesscom](https://img.shields.io/badge/-Chesscom-00FF00?logo=chesscom&logoColor=00FF00)](https://www.chess.com/member/m-dinhhoangviet)
