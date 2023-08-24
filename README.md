@@ -25,3 +25,13 @@
 <p align="center">
 	<a href="./github-contrib-graph.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
+
+<h2 align="center">
+	Metrics
+</h2>
+
+<p align="center">
+	<img width="625em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/github-metrics.svg" />
+</p>
