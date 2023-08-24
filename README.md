@@ -35,6 +35,6 @@
 [![Chesscom](https://img.shields.io/badge/-Chesscom-228B22?logo=chesscom&logoColor=228B22)](https://www.chess.com/member/m-dinhhoangviet)
 [![Lichess](https://img.shields.io/badge/-Lichess-C0C0C0?logo=lichess&logoColor=C0C0C0)](https://lichess.org/@/M_DinhHoangViet)
 [![Youtube](https://img.shields.io/badge/-Youtube-FFFFFF?logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPj3r5RWmho8CMnz8r5Aw-Q)
-[![Twitch](https://img.shields.io/badge/-Twitch-9932CC?logo=twitch&logoColor=9932CC)](https://www.twitch.tv/masterdinhhoangviet)
+[![Twitch](https://img.shields.io/badge/-Twitch-FFFFFF?logo=twitch&logoColor=FFFFFF)](https://www.twitch.tv/masterdinhhoangviet)
 [![Tiktok](https://img.shields.io/badge/-Tiktok-FFFFFF?logo=tiktok&logoColor=FFFFFF)](https://www.tiktok.com/@m_dinhhoangviet)
 [![Facebook](https://img.shields.io/badge/-Facebook-87CEFA?logo=facebook&logoColor=87CEFA)](https://www.facebook.com/profile.php?id=100074561160371)
