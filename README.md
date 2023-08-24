@@ -27,5 +27,5 @@
 </p>
 
 ## Social accounts
-[![Twitter](https://img.shields.io/badge/Twitter-%40lichess-blue.svg)](https://twitter.com/DINHHOANGVIET_)
-[![Chess.com](https://img.shields.io/badge/Twitter-%40lichess-blue.svg)](https://www.chess.com/member/m-dinhhoangviet)
+[![Twitter](https://img.shields.io/badge/Twitter-%40DINHHOANGVIET_-blue.svg)](https://twitter.com/DINHHOANGVIET_)
+[![Chess.com](https://img.shields.io/badge/Twitter-%40M-DinhHoangViet-blue.svg)](https://www.chess.com/member/m-dinhhoangviet)
