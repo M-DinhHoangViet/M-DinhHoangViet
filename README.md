@@ -1,17 +1,8 @@
-<h1 align="center">
-	M-DinhHoangViet
-</h1>
+## M-DinhHoangViet
+### 								Stats
+![Stats](https://github-readme-stats-theyobots.vercel.app/api?username=M-DinhHoangViet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
 
-<h2 align="center">
-	Stats
-</h2>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats-theyobots.vercel.app/api?username=M-DinhHoangViet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-DinhHoangViet&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+"https://github-readme-streak-stats.herokuapp.com/?user=M-DinhHoangViet&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
