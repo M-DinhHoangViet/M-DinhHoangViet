@@ -35,3 +35,11 @@
 <p align="center">
 	<img width="625em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/github-metrics.svg" />
 </p>
+
+<h2 align="center">
+	Working Space
+</h2>
+
+<p align="center">
+	<img width="143em" src="!https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code" />
+</p>
