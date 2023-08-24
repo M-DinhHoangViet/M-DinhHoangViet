@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.CONTRIB_GRAPH_TOKEN }}
+          GITHUB_TOKEN: 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
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit files
