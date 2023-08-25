@@ -24,7 +24,7 @@
 
 <p align="center">
 	<a href="./github-contrib-graph.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
 </p>
 
