@@ -19,12 +19,10 @@ jobs:
           plugin_followup_sections: repositories, user
           plugin_lines: yes
       
-      - name: Last chess game from lichess.org
+      - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.chess.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_chess: yes
-          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plugin_chess_platform: lichess.org
+         filename: metrics.plugin.languages.indepth.svg
+         token: ${{ secrets.TOKEN }}
+         base: ""
+         plugin_languages: yes
