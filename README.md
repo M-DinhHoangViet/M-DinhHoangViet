@@ -34,6 +34,10 @@
 
 <p align="center">
 	<img width="625em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/github-metrics.svg" />
+<p>
+	
+<p align="center">
+	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.plugin.chess.svg"/>
 </p>
 
 ## Working space
