@@ -37,7 +37,7 @@
 <p>
 	
 <p align="center">
-	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.plugin.chess.svg"/>
+	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/general.svg"/>
 </p>
 
 ## Working space
