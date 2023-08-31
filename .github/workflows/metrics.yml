@@ -18,17 +18,32 @@ jobs:
           plugin_isocalendar: yes
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 0
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 0
+          plugin_lines_history_limit: 0
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: graph
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
           plugin_discussions_categories_limit: 0
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_repositories: yes
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugin_repositories_featured: M-DinhHoangViet/Lichess-Bot
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
