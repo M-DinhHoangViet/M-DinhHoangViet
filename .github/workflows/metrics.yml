@@ -47,4 +47,3 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_lines: yes
