@@ -27,6 +27,8 @@
 	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/general.svg"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Working space
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
