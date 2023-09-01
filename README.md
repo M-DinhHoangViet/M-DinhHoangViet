@@ -6,11 +6,11 @@
 	Stats
 </h2>
 
-<p align="center">
+<p align="right">
 	<img width="450em" src="https://github-readme-stats-theyobots.vercel.app/api?username=M-DinhHoangViet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<p align="left">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-DinhHoangViet&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
 	<a href="./github-contrib-graph.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
+		<img width="888em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
 </p>
 
