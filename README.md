@@ -1,5 +1,5 @@
 <h1 align="center">
-	**Đinh Hoàng Việt**
+	Đinh Hoàng Việt
 </h1>
 
 <h2 align="center">
