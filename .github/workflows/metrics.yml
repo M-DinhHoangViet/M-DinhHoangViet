@@ -3,11 +3,37 @@ on:
   schedule: [{cron: "14 */03 * * *"}]
   workflow_dispatch:
 jobs:
+  github-other:
+    runs-on: ubuntu-latest
+    steps:
+      
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metriecs.svg
+          token: ${{ secrets.TOKEN }}
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 0
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_people_types: contributors, stargazers, watchers, followers, following
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       
-      - name: Indepth analysis
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
@@ -16,8 +42,6 @@ jobs:
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           plugin_isocalendar: yes
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
           plugin_languages: yes
           plugin_languages_details: bytes-size, lines, percentage
           plugin_languages_sections: most-used, recently-used
@@ -33,14 +57,4 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 0
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_repositories: yes
           plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers
-          plugin_repositories_featured: M-DinhHoangViet/Lichess-Bot
-          config_timezone: Asia/Ho_Chi_Minh
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
