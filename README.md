@@ -25,6 +25,7 @@
 	
 <p align="center">
 	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/general.svg"/>
+	<img width="450em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/github-metriecs.svg"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
