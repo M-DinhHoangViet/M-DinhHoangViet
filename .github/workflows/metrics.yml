@@ -21,7 +21,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager, follower
+            scripter, packager, explorer, infographile, manager, follower, reviewer, committer
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           plugin_people_types: contributors, stargazers, watchers, followers, following
