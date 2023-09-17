@@ -8,6 +8,7 @@ jobs:
     steps:
       
       - name: Metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
@@ -26,6 +27,7 @@ jobs:
           plugin_followup_sections: repositories, user
       
       - name: Metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
