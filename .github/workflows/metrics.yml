@@ -8,29 +8,9 @@ jobs:
     steps:
       
       - name: Metrics
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.TOKEN }}
-          plugin_calendar: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_discussions: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, followers
-          config_timezone: Asia/Ho_Chi_Minh
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-      
-      - name: Metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: general.svg
+          filename: metrics.svg
           token: ${{ secrets.TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -47,3 +27,32 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_notable: yes
+          plugin_calendar: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_discussions: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, followers
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+  3d-contrib:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update profile-3d-contrib"
+          git push
