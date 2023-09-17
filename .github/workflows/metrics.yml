@@ -40,13 +40,13 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
-  3d-contrib:
+  github-3d-contrib:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
