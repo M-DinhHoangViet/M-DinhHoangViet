@@ -10,7 +10,7 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metriecs.svg
+          filename: github-metrics.svg
           token: ${{ secrets.TOKEN }}
           plugin_calendar: yes
           plugin_habits: yes
