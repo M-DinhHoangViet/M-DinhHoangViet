@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "14 */03 * * *"}]
   workflow_dispatch:
 jobs:
-  github-other:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       
@@ -24,10 +24,6 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
       
       - name: Metrics
         uses: lowlighter/metrics@latest
