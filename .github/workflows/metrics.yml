@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 jobs:
   github-metrics:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       
       - name: Metrics
