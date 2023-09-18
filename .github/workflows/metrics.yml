@@ -47,7 +47,7 @@ jobs:
             token: ${{ secrets.TOKEN }}
             base: ""
             template: repository
-            repo: lichess-org/lila
+            repo: lila
             plugin_people: yes
             plugin_people_types: contributors, sponsors
   
