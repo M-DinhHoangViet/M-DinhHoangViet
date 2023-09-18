@@ -39,7 +39,18 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          
+
+      - name: Contributors and sponsors
+        uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.people.repository.svg
+            token: ${{ secrets.TOKEN }}
+            base: ""
+            template: repository
+            repo: lichess-org/lila
+            plugin_people: yes
+            plugin_people_types: contributors, sponsors
+  
   github-3d-contrib:
     runs-on: ubuntu-latest
     steps:
