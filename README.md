@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=omaarelamri&color=brightgreen&style=plastic)
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMAARELAMRI?style=social">
+![](https://komarev.com/ghpvc/?username=M-DinhHoangViet&color=brightgreen&style=plastic)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/M-DINHHOANGVIET?style=social">
 <h1 align="center">
 	Đinh Hoàng Việt
 </h1>
