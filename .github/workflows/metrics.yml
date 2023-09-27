@@ -39,17 +39,6 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-
-      - name: Contributors with contributions count
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.contributors.contributions.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: lila
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
   
   github-3d-contrib:
     runs-on: ubuntu-latest
