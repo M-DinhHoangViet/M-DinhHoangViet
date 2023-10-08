@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 20 users
+                            Followed by 19 users
                         </div>
                     </section>
                     <section>
@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 8 days
+                            Current streak 9 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1077,6 +1077,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.166666666666667 0,2.166666666666667 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.166666666666667 1.7,3.166666666666667 z"/>
                             </g>
+                            <g transform="translate(-10.2, 11.666666666666666)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3333333333333335 0,1.3333333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3333333333333333 1.7,2.3333333333333335 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1322,7 +1327,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 80 repositories
+                            Starred 81 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1615,7 +1620,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 96 commits)</small>
+                    <small class="h-details">(computed from last 97 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1656,8 +1661,8 @@
                             04
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             05
                         </div>
                         <div class="entry">
@@ -1757,8 +1762,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 6.896551724137931px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 8.620689655172415px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -2173,6 +2178,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2194,55 +2200,55 @@
                                 <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
                                 <g class="tick" opacity="1" transform="translate(35.019230769230774,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 25</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 26</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(69.63461538461539,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 26</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 27</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(104.25000000000001,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 27</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 28</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(138.86538461538458,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 28</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 29</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(173.48076923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 29</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 30</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(208.09615384615384,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 30</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(242.71153846153848,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 02</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(277.3269230769231,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 02</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 03</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(311.9423076923077,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 03</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 04</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(346.5576923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 04</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 05</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(381.1730769230769,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 05</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 06</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(415.78846153846155,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 06</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 07</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(450.40384615384613,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 07</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Oct 08</text>
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
@@ -2292,55 +2298,55 @@
                                 <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
                                 <g class="tick" opacity="1" transform="translate(35.019230769230774,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 25</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 26</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(69.63461538461539,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 26</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 27</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(104.25000000000001,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 27</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 28</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(138.86538461538458,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 28</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 29</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(173.48076923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 29</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 30</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(208.09615384615384,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 30</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(242.71153846153848,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 02</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(277.3269230769231,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 02</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 03</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(311.9423076923077,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 03</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 04</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(346.5576923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 04</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 05</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(381.1730769230769,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 05</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 06</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(415.78846153846155,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 06</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 07</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(450.40384615384613,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 07</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Oct 08</text>
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
@@ -2390,7 +2396,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    20 followers
+                    19 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -2402,7 +2408,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EACgQAAEDBAEEAgEFAAAAAAAAAAECAwQABREhBhITMUEHIlEVI2Fxsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAwEBAQEAAAAAAAAAAAABAgADEQQSITH/2gAMAwEAAhEDEQA/AH9LmagflG/XOHKt9vs9y/TXHvuX0sh1az6Rg6A0a3L3foljtEm53FwojRk9aiPJ/AH8k6oduvyhaeW3lhLaRbWohC0vTHOgvDOxrQI9DJ8mls0KSJWnyXAaLnG5c6VxyO7dJDcqTsd9tvth0Z0ej0cVxcV9zULxD5btV5uIsrkd1l0ulqO9nKHRnRPsE6/NV7rg7horufYjZ7OSS+V7fP5HxZu12tTQddkIWruq6B0gE/7ih3jfFU26RJPIA0XGXe0G1JK21AHZJGPIBxgg+6ZuQSnI8eM42RnrxgjXisiS6q2RQ5Bw0Hz3HG/KCrp84P8AQqF1hB8zbyVIMdxsguM8LRcL9Eu1kkojREOpdbaeyv7oXsA+ca1ndNDsv9w1g2yW6tTLn0SQfCUgCu7ij1mm57C27IdqpUQVH7P/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGBP/EAC4QAAEDAgUCBAUFAAAAAAAAAAECAwQFEQAGByExEkETI2GhFCIzQoFicbHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCAP/EAB0RAAEFAAMBAAAAAAAAAAAAAAEAAgMEESEiQTH/2gAMAwEAAhEDEQA/AMnqJWF0ejBEdXRJkkoSRygdz744slaZ16s0xp55UeNEkEOEuHzCP2tgPU2Z8VnGJDbsQ0EtWPHUT/oxcMszsysx3WJtPhshLZ8A3O5Fud+N+2CWHnxNrRg/VK6rHn5FrkZmchsxnXCUut7govuPxjcKaCjdPBwBq1HrtQy2iTWYkeM5GfukNE+YLG5sThTLTzlSoECSj5ipoJUf1DY/xi678bhUWGc6FFMydb9alzerlxTqT+dsXXKuZJ+ZKXCfgtuSA210OlL4Qb90LBHpyMQd9R8Hc32XzisaZUSIujQ1eakum6+ldr4PIdbpSq3EhHiM1ezO/VJ8elNursnd8JN0+iL99x7Ye09K0ZYYbP2LUn3wTqjTIsasw3mG+hS21INuLJ4xoNMlk5WbuB9RX9Y0Z6hROO5X/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADbUlEQVR4nK2W2U8TQRzH919CnoQYiMaohBBAtvSgLRW219KLQtm2UI4eFIrI0ZbetAj0Rk59w0SMCpQjYCAmHg+iHMqL+ODBg2mnLGW7lBJJvtlMZ3Y+v2Pm99tCMGK+ckGX3cAUuWgC2xVAlYYwGKgMYabIRRfas4VSuBamyKXpnojOxYZ88/j8A6mr/eEkGKuNEaTBk234NIFN2fXM5Fwc8MV+/T7+8/c4PLMEljhnobVyD4Vrkbf5FdogjW/NBEXVIZNzEWj+1aeD7z+iczHS8GHEXMmzqDojLV1RumAIzFP5QxyZl8pP/kxCK3lWpHEUVQcwwyRb7Nb1TVMTXtAENrrQDp6pYkvcVXWnma2WDsdjknmJOaUKbLq+WY//Ra3cK20ZgxEzA3VU8pIBUriWqjon7guwB1YpXItYE62WDuMHCKXmokkX8gYXOFIX2EM5IcKImSV2s8Ru4FEqN90YnH6l1J2RaomTLrRTuBbCfpbYXVXnJLyf/iZMek/pQnthsaTgDuvefVFm5VwvhRFzuiWIFJp3G2loD+D34Tzl3WSAnBJqDNL2Tun7p9XGSE29OxkpGdTuX3eHN7KFtvdMah9NYfqQSPWY1NPlzd31rf2Vt3vvPh6+Xvuyvn2wsPyZFCrVjDUbo5g+BLWaJmSaccPAjMn6VGUIU3lWAnRn72j7/eHO3tHs8w+7337GNnfXtvbToVWozTg429I10Wp6Aim0QVQ5gulDcWfVowRPrWOrL2M7gyMr1tHVAV/szfpXT3ijx7WUDlVog026ULMxojSE//egGtoDDNRGzCl8DpTJN0ibfZmVm1/WOTDLa/QCaCXPyhK72RIPObQIbryWk3uh8gtKACtRURaOzFsjH2GKXHEohRu3cKZIkP4SWvOpqFh5WUV5WUUpzEudL2Xq4JOjpwvteMlByaZZ7wNTDNTBiNdyvKjBUhGtI/8W/UbB3bgKiwuLJYSw8D5HbH00gS1JRB3AGvWkCWUQA3UknjYhNsIQnp4VhI/42LhAGeBj/tQ9GbgM1AGiadKF6tv81RInCZSeaMaEy5HenoESxKS9jt5JTfcEORROU2NHoFZ++pnjyLx8zI+3d1yYPqTqjDBF9ouhCm1QoQ0azXOgZ8OImS0dZks8vKbxzIm+wFP52Uxlr0v/Q8kG+g8Nrk/FydD1rQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGbElEQVR4nKVWW0ybZRiu03mhXni48M4bNdF46aWZJvu/7+95QJwb8TQP2aQwxqGDDTdE5xgrzFHKqbTlDK04jgN2KrTAYAdgo2yauMxEk804ZxQ3TZyb9DHv+7dlHWaaGfJSoPR/vvd5n/d5Pp0+16K7WwlbyuNKfrF7tb20T8l462U125z8fmb680p+iU+xf9IsbGuf+rfn3fVNKlmwq1ns74VaPQTh8N+SBR97RUbak8JmfVjkbNslyjr+kFWDEM4ByB2VIZlluu+eAZVNaU/KsvbrpsbjsHaegalpAmJ/D+Se1mvy06YrymfdMPomsMY/B0vbaSgO/1/C9saL9w64Ja9A+awH1vYZWNqnYWk/DUvrKRgaRmH0hvkQa/zzWgUikFUHIbaW1P0nQJqNzFz/jMx65xWZnfG6zMvdInb5vje4R/j05tZTMLecgLllCqbmKQawBmJg/nlY/REYfeMQe9oW1Py8LTJr02sya8MqaUt/Tm42r1gGKPMKS4iS1RVfQNnXDVHZC33tEVg7ZxnA1HQcxsaJWI0z4Jo4IL0G5mFtm4a+9jBo5vQMhZ5V/vmiWvBpY1xssVmZHlBLm67EaUpUxyxTaW49qXVHwLEyU9dtRPMMM8CUt53mohHQZ6nMTZOQjs4/xAcpjyYAZZZJJ4przxsaRrR/bNPoI5EYm44nOliqCFT3CPQNQegbRqH3jMLQEEJq/TDebQnynOPdmwiwtPUXZZN5ZRKlq3OLG6RrEGbqqOUkU2jwjfNcEvQRbXHA+mPQ1x+F3n0MBvcxpNb049zln3Dtxp/IC4QSoPr6IMS28qFlMxTZtg3KvgNMn6l5kudk8IRh8IaTALWTRyBrD0GNVVpNP+YvXQWwyHX9xk3kBkLMlnD2Q+QVfLQcMCcnh4Zsbp5kKg2+MZa/wRPSFOmPqTLWoagegnQdRKqrjzsjIPqi11vRKMqGTvIsRWUfpH2nU91iYUPQ0Q9Kdt5W4fDfNLiD2uyaJxkovWEI69zDTI+FBNI2zWIhYag1w0h19SZ1poEtojo4C5NnFNbOszA1TkAp71qU+cUumWV9UCftxS6lvCtq9Iyy0ogua/ss3m06iu9//Q2XFq7jzYaD3I2oGuATK/t7sa5+8B/BaoKz0NcMweAdYx1YOmZYEzQudbtjQKeUfx6lU2hOMsN0ra0fxrc/XwMWFxHFIi5eXUBKVQ+Ek8B6YNzXha9/XGAQej9OZ/vUeeirBmDwjCwBUhOBeWZJqTgAnVLRxb9YOzT7Il/cfmAct6JIOv03VxeQVtWNV6t7cOHHX5JmRt87T34FtaofelJvAlBrhOfeeQZkkzpZtC9EJmyOn4Z2xxuGJzyHv24DpJr97gecu7xEo9YdMDh3ERZ3EAZvCHp6ZcBwApBKVPZDltTN69TslIdk4e7A6oouGH1jSwvrCcE7FlkGGk36GRiOfAOL+xiPgj5PgGwEPo1SAqWGZFHFIWFLeyIWouYVIn+Hk/cw7pu+cajVg/COzSWoiybRGMVg5CIMlT1Q646wEZhaTsDSEbfGs1yUk2Lbnm652fpg0h4qmRvXJ/awcYJnQHuougaXdcozO/Elg8maIV5+fd1hmFtPa27kjxt7hKkUOflFyxff/mGFdPazgEzNlAzjPAcqszcMb5g6BS81gUlnH++iWkdgR9jiaE/v9F3qXhSW9SQBUnQoRc5TpDDOPjZuonWM/ZSUS0JyBWex/8g0L7Vad1Tz0nryUjLxEU4Pa6y7uCvRaOTupivKRtP9t8fTSn1py1WTb1xbj9Y700J7CC0wBXE8LVROixFNJJ4w77H1jlQhbxYO/w2RkfpYUoeiYFcLzZC9jy5ErkFQXHEest2RmCb5ANpCzywV5SZlX+spGD0hqNWH+PM0InaYnVVT8dRfSvwsy0o154MUabfniNztDlHwSbMoa/+dQjmuXO64cTw58W9LEBKb2Nt5UxSWBkReUbnMt9tlbma6zEx55D9doqS9aC9dFyyU+InUn+QLFP0tocaYMvkqWVjWe8+3NpGx7mm5t/PPuCdSp2TiiiOwKPb6b9EtTQvaCGefUt4FkfWe6f9dhLc7BqTzIAz1Qb4UyR3OKZH59iphS39BFjn66JJESlVrDkGWuC/ITDOr8Z4BhW39s4JAStwX1Jzs92W2JfFAylKZvSlV2VkzL4prz8nNG176t+f9DdXs9gnzXkbfAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAAoEAABAwMDBAICAwAAAAAAAAABAgMEAAURBhIhEzFBgRRRIsFhYrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAeEQACAgICAwAAAAAAAAAAAAABAgARBEEDEyFCUf/aAAwDAQACEQMRAD8Awq3Q5EyUhiIyXXVjGAM0im6cvemWRMkRwY7qdjhH5gA+D9V1rM7Ph32NPbhQ1uSk9MNMtJbQCDjsk48d611VgVdmnZE6Z1ob7Gz4mOW88EfXH334oHLk01amjw4oKXuB9NtNvWZCmeEOp/HPjeP0sLFL34ibhHhSO+Y6R/tcSw2eLb9ErkxH5EhtqQ4w6XG9mOcDH8BaDz/aptOanjt28sSXE72XVo9Zz+6h7GUAsQrqXXkly0uMsWtu3B5/ey5xvABOcD3V7ROvW0sTPlJkdYILyktABsYHKz9n1571l+pypN9mpK1r2r2ArOTioobq2kPdNRTubKTjyMilnFVkvcPx5TIxXUXxNfTI/wAxl6M09b5LzjpjZ2bN5JwD7Pih0ycp6S441uaQo5CFDeR781WdUahqvUgPgQ/Y/wBn/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQHBf/EACoQAAEDAgUDBAIDAAAAAAAAAAECAwQFEQAGEhMxIUFRBxQiYRUycbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMABf/EAB0RAAICAwADAAAAAAAAAAAAAAABAgMEERITISL/2gAMAwEAAhEDEQA/AC8luDTttMh9sa/npHJ+v7wzylTPcNB5nWW23t0FPCCOxwMpDTMGs7y4q5lQc16XXerTRN7E+B/uHOUKj+OqsdTLyJLEhJ32YrgLTa7C4P8AB78WP1jnzs3LkdVQuemR57iZhkZyoU2lOyRTNKdxKXLISQslesd+mH1Kq+WTCSmpqSiU2pSFC6+yjiCbElpehPwZcdVGcOstNtkbZ2wALnkG1+Ob4HzYEp+bIcYjFxsuGyvOC3TUUlIzfMmc/wBQstyaBDWy8oLkPJupTRshY7/fjriTIRjxaK/uFfuHAR8B0NrWB+zfGteqrDblBaeKBuNPaEkdhbjGWyHDCiBlkANFRuj9QrjnTbCcj4eimMvIvY3yqmc/lz2mtpwx3NfPYWsB5NjjnSwtyW8pD6mbkXSE2udI684Xen7bbQkobbSlCki6QOnAxkuZKrMi1mQ0w8tDYPQAnA7sZzSbZPIW5H//2Q==" width="28" height="28" alt="" />
@@ -2475,7 +2480,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="113.77 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.08 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2497,7 +2502,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 867 times</div>
+                                <div class="text">Repositories have been deployed 868 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2687,7 +2692,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.53266331658291 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.311557788944725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2706,7 +2711,7 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 80 repositories</div>
+                                <div class="text">Starred 81 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2719,7 +2724,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.798994974874372 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.020100502512562 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2756,9 +2761,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 636k out of 121m users</span>
+                                    <span class="gh">ranked 672k out of 121m users</span>
                                 </div>
-                                <div class="text">Followed by 20 users</div>
+                                <div class="text">Followed by 19 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2876,7 +2881,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.24m out of 54.4m repositories</span>
+                                    <span class="gh">ranked 3.21m out of 54.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3036,7 +3041,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2023, 04:17:24 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2023, 08:31:13 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
