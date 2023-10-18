@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-	<img width="413em" src="https://github-readme-stats-theyobots.vercel.app/api?username=M-DinhHoangViet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=synthwave"/> <img width="413em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-DinhHoangViet&include_all_commits=true&hide_border=true&theme=synthwave"/>
+	<img width="413em" src="https://github-readme-stats-theyobots.vercel.app/api?username=M-DinhHoangViet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark"/> <img width="413em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-DinhHoangViet&include_all_commits=true&hide_border=true&theme=onedark"/>
 </p>
 
 <h2 align="center">
