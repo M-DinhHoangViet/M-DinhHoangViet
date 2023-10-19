@@ -8,9 +8,6 @@
 	<a href="./github-contrib-graph.svg">
 		<img width="333em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
-</p>
-	
-<p>
 	<img width="444em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
 </p>
 
