@@ -4,22 +4,14 @@
 	Đinh Hoàng Việt
 </h1>
 
-<h2 align="center">
-	3D Contributions Graph
-</h2>
-
-<p align="center">
+<p>
 	<a href="./github-contrib-graph.svg">
-		<img width="888em" src="./profile-3d-contrib/profile-night-view.svg">
+		<img width="333em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
 </p>
-
-<h2 align="center">
-	Metrics
-</h2>
 	
-<p align="center">
-	<img width="555em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
+<p>
+	<img width="444em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
