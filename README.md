@@ -6,7 +6,8 @@
 
 <p>
 	<a href="./github-contrib-graph.svg">
-		<img width="333em" src="./profile-3d-contrib/profile-night-view.svg">
+		<img width="444em" src="./profile-3d-contrib/profile-night-view.svg">
+		<img width="555em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
 	</a>
 	<img width="444em" src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
 </p>
