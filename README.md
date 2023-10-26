@@ -8,7 +8,6 @@
 	<a href="./github-contrib-graph.svg">
 		<img src="./profile-3d-contrib/profile-night-view.svg">
 		<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
-		<img src="https://github-stats-alpha.vercel.app/api?username=M-DinhHoangViet&cc=000&tc=57F217&ic=57F217&bc=000">
 		<img src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
 	</a>
 </p>
