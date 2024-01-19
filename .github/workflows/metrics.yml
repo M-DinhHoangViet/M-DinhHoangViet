@@ -24,8 +24,6 @@ jobs:
           plugin_languages_colors: rainbow
           plugin_lines: yes
           plugin_lines_sections: repositories, history
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_notable: yes
