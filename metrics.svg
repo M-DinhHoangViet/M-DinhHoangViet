@@ -2007,6 +2007,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAKxAAAgIBAwMDAQkAAAAAAAAAAQMCBBEABSEGEkETMVEUBxciUmFysbLh/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAIREAAQQBBAMBAAAAAAAAAAAAAwABAgQRBTFRYQZBseH/2gAMAwEAAhEDEQA/AMl6VrWUVfp/p2uy+S1GIyTjGQBozfqX/WrwYm5VrHvLJlZWePGcca49je5VfcGouGt6brM1Mzz3AcYPjnGn3pnea1rdn2OoJT3JYrtWBdkWnJXmPv57sDUadEll5SzstV+8KtGMcboh9nnX1Dp/pitQ3PaS21GUzJ5mYylycE/hPOMabvve2GXLEW4y+Is4/rrJdw693XY6KK9fcWzYchS2KDRwfmQPwdCGde7lanJjd2uQZkiUV11QiDnwO6P8DUT1pCI45NsqAOMo2JD2k+4ZU2LDD6kVuLrC+4gYkeIfqffTxUIiJkY7GATHaQc8ZHnQLeqFZd6a4JiI47yPzS+TqVS05a6UYywP90zoJs5z19/UN5AJ8M7d/FfuVJVgrLgCyAPac4IyTpbf01KTSYy4/dpspxL4SmyczKfJ51NkcEYJ9tD6hYlI85NyndOBGNYcX4X/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcA/8QAMBAAAQMDAgIIBQUAAAAAAAAAAQIDBAAFERIhBkETFCIxMnGB0RUkUWGRUmKhsvD/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwQG/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEFEiExBBVh/9oADAMBAAIRAxEAPwDF40RSYgkFJLQGVKSM49vWpYzD3VEdGHFgpPZRy7s5+++fpT5wtw7CmxH2pC5UdtxvQSyRnB2558qZ+DOHI9mZukfqM/Q4k4eU42sPjHgG3POfWjF5SlXKHdiPyeLsrUM3qYwWvnnWFq1unG+PH5gc9/4oWVFLLykLCAod+vxetahbOCGI85b6/iMJxwKAbcKScef+zg0t3KxMsS1th1e36zv/AFpKvbh2X1Od+zoDmo7o/IvyJTkVphpt4gFSDsojYcjTJYOL5jFr6m48GkR3Tp15OtvPg8vajbnFjR4lx0RWT0DGtrUnOg9hW3q4r80KzaoxtFrXhQU6lGrB78neoWVrkbrd9zZRXDiW5Srm9K61IZWt/BDbxGUAbbfmuekSn1lxUp/J/eferyFa4cjityK+ylxnox2VVGiyxJgKlBbYRhKUtnAAwDz+5NVVio8TE9NZbuR5M//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDBAAFEQYSEyExUQcUIkHBMmFxkYGhsv/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEEEkEh/9oADAMBAAIRAxEAPwDPgW5u3WWXOWjf5Zlx/HfYCfirtp8NdaSLeLo5qRlD62w63G4JLffB9sfxRPamEOwS0tIKFpKCCOoNFenkwVWvjvNyhEbdLnEcdwEcuv1dM5+RSz2RNMri462HZuLCA23ftPR5y2Ay44FhxvrtUCQf7FBdysm2WsYpwvMRYrK2oTJaYyV7SSTvJJWTn3JJNB9ybb82utt9qjOVOtkmFqvXj+nrPETbktLmSSvC3OYbAxk478xRZIurFh0g1dJaSLxLS05HacwSHFNhRdKB6QQSeg64+9c9aqfck3a3MuqyjhpGPyo5pkePNzkr1mxEKgI8eMnhtgchkqz/AJH6qipY2+QMlqPz2UbPrq6xZLiSoSIZUcNOnmO5C/2a2nNRsS18ZJUjd1T2NKiXJcQ+hCVYTj5qTcl31er3o3Ek/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAApEAACAQMDBAAGAwAAAAAAAAABAgMABBEFITEGEhNBFCJRgZGhMmFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB4RAAIDAAEFAAAAAAAAAAAAAAECAAMRIQQSIjFB/9oADAMBAAIRAxEAPwCJdNWckenGUCZMkFmj7X9+xyP196ztDJH1UJvIyiSXvHlQxwvn2SeM85xzXfbaTrd3FJf6bdII5D3iKJsgf4DsPzQFNQv4NQeZZo/KCfJE+VVj7yvH2qdedgapk9/YZ6yCi9thBb2dlI8fkIZxKku5wQzIAOOKWbizuZZO5jYA4x8k8Cj8A136nql7eFpZLCywVxmOEHf653OdhyaCxQSMpPhkbfnBNPWuCKEyG+m7j4hks7iF7qIbxxNKQiH2cUUm6aVVyk5J9BhSdbyyQSpJExRweRTRZavdvdCGVldfqRv+qD+J4m4PcMMxbRzbsZJ2BQHYDeqJ0v1BJoejxWdhpdqVBLvJOvc0jH3zttgY/qp31PfXFvdWohftH8+PeabdNvJJrGGV1QM69xwMDNT2s2AyrpqlYnZ//9k=" width="28" height="28" alt="" />
@@ -2375,7 +2376,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.35678391959799 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.1356783919598 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2412,9 +2413,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 627k out of 134m users</span>
+                                    <span class="gh">ranked 597k out of 134m users</span>
                                 </div>
-                                <div class="text">Followed by 22 users</div>
+                                <div class="text">Followed by 23 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2563,7 +2564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.21m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.21m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2651,7 +2652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2024, 01:11:05  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2024, 09:21:28  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
