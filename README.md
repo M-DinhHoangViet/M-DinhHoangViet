@@ -1,11 +1,7 @@
-<h1 align="center">
-	Đinh Hoàng Việt
-</h1>
-
 <p>
 	<a href="./github-contrib-graph.svg">
 		<img src="./profile-3d-contrib/profile-night-view.svg">
-		<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
+		<img src="https://github-profile-trophy.vercel.app/?username=m-dinhhoangviet&theme=onedark">
 		<img src="https://github.com/M-DinhHoangViet/M-DinhHoangViet/blob/main/metrics.svg"/>
 	</a>
 </p>
